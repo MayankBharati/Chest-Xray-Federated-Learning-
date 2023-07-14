@@ -1,6 +1,6 @@
-# Chest Xray Federated Learning
+# Chest X-ray Federated Learning
 
-The Chest Xray Federated Learning project is a Python-based implementation of federated learning techniques applied to chest X-ray images. It aims to enable collaborative learning across multiple healthcare institutions while preserving data privacy. This README file provides an overview of the project, its features, installation instructions, and other important details.
+The Chest X-ray Federated Learning project is a Python-based implementation of federated learning techniques applied to chest X-ray images. It aims to enable collaborative learning across multiple healthcare institutions while preserving data privacy. This README file provides an overview of the project, its features, installation instructions, and other important details.
 
 ## Features
 
@@ -54,4 +54,6 @@ Contributions to the Chest Xray Federated Learning project are welcome! If you w
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding the Chest Xray Federated Learning project, please contact the me here bharatim1221@gmail.com.
+If you have any questions, suggestions, or feedback regarding the Chest Xray Federated Learning project, please contact us at 
+* bharatim1221@gmail.com.
+* ritwikrajput620@gmail.com
