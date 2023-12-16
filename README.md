@@ -57,3 +57,4 @@ Contributions to the Chest Xray Federated Learning project are welcome! If you w
 If you have any questions, suggestions, or feedback regarding the Chest Xray Federated Learning project, please contact us at 
 * bharatim1221@gmail.com.
 * ritwikrajput620@gmail.com
+* namanyadav982@gmail.com
